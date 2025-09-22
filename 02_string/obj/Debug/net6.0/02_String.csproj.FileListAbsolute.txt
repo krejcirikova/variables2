@@ -1,0 +1,15 @@
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\bin\Debug\net6.0\02_String.exe
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\bin\Debug\net6.0\02_String.deps.json
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\bin\Debug\net6.0\02_String.runtimeconfig.json
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\bin\Debug\net6.0\02_String.dll
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\bin\Debug\net6.0\02_String.pdb
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.AssemblyInfoInputs.cache
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.AssemblyInfo.cs
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.csproj.CoreCompileInputs.cache
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.sourcelink.json
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.dll
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\refint\02_String.dll
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.pdb
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\02_String.genruntimeconfig.cache
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\02_String\obj\Debug\net6.0\ref\02_String.dll

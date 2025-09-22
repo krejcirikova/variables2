@@ -1,0 +1,15 @@
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\bin\Debug\net6.0\01_IntAndBool.exe
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\bin\Debug\net6.0\01_IntAndBool.deps.json
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\bin\Debug\net6.0\01_IntAndBool.runtimeconfig.json
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\bin\Debug\net6.0\01_IntAndBool.dll
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\bin\Debug\net6.0\01_IntAndBool.pdb
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.AssemblyInfoInputs.cache
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.AssemblyInfo.cs
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.csproj.CoreCompileInputs.cache
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.sourcelink.json
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.dll
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\refint\01_IntAndBool.dll
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.pdb
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\01_IntAndBool.genruntimeconfig.cache
+C:\Users\MK\OneDrive - Střední průmyslová škola Zlín\MK_onedrive\C# OneDrive\4_PROGRAMOVANI\2_variables\variables\obj\Debug\net6.0\ref\01_IntAndBool.dll
